@@ -27,6 +27,6 @@
   to { transform: rotate(360deg); }
 }
 
-body { 
+html, body { 
   background-color: rgb(87, 84, 84); 
 }
